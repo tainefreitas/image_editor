@@ -1,19 +1,16 @@
-Nome: Taíne Dias de Freitas
-Matrícula: 10102157
-
-Instruções:
+InstruÃ§Ãµes:
 Para usar, primeiro carregue uma imagem, e selecione os filtros de cima para baixo.
-Após isso, clique em Editar.
+ApÃ³s isso, clique em Editar.
 Caso queira salvar, clique em Salvar.
-Caso queira ver a Marca D'água no domínio das frequências, clique em Ver Marca D'água.
+Caso queira ver a Marca D'Ã¡gua no domÃ­nio das frequÃªncias, clique em Ver Marca D'Ã¡gua.
 
 Sobre os filtros:
-Os filtros de Passa-Alta e Passa-Baixa já vem com valores determinados de corte e de ordem em 50 e 3.
-O downsampling amostra está reduzindo a imagem 4 vezes.
-O upsampling zero está aumentando a imagem 2 vezes. (Perceptível se salva a imagem, ou imagens muito
+Os filtros de Passa-Alta e Passa-Baixa jÃ¡ vem com valores determinados de corte e de ordem em 50 e 3.
+O downsampling amostra estÃ¡ reduzindo a imagem 4 vezes.
+O upsampling zero estÃ¡ aumentando a imagem 2 vezes. (PerceptÃ­vel se salva a imagem, ou imagens muito
 pequenas).
-o upsampling interpolar está realizando interpolarização bicúbica, aumentando a imagem 2 vezes.
+o upsampling interpolar estÃ¡ realizando interpolarizaÃ§Ã£o bicÃºbica, aumentando a imagem 2 vezes.
 
 Bugs conhecidos:
-O bug conhecido é que deve-se selecionar em ordem os filtros toda vez que se quer editar uma imagem.
-Marca d'água em imagens p&b ficam estranhas.
+O bug conhecido Ã© que deve-se selecionar em ordem os filtros toda vez que se quer editar uma imagem.
+Marca d'Ã¡gua em imagens p&b ficam estranhas.
